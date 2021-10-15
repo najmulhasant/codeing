@@ -1,0 +1,357 @@
+*{box-sizing: border-box;}
+*{margin:0px; padding:0px;	}
+
+
+#menu{
+	background:#ddd;
+	
+}
+
+.container{
+	width:1170px;
+	margin: auto;
+	
+}
+.menu a{
+	text-decoration:none;
+	
+}
+.logo img {
+    width: 40px;
+    overflow: hidden;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+.logo {
+    width: 50px;
+    overflow: hidden;
+}
+.menu {
+    width: 279px;
+    float: right;
+    margin-top: -38px;
+	
+}
+
+.menu a {
+    padding: 1px 6px 2px;
+	margin-right: 8px;
+	color: #380404cf;
+	border-radius: 3px;
+}
+.menu a:hover{
+	padding: 1px 6px 2px;
+    color: #380404cf;
+    border: 1px solid #0000002b;
+    
+    background: #805f0017;
+	
+	transition:.5s;
+}
+.slider img {
+    width: 1280px;
+    height: 430px;
+	margin:1px auto;
+	display:block;
+	
+}
+.discriptiontitle{
+	margin:auto;
+	margin-top:50px;
+
+}
+
+.discriptiontitle h2{
+	margin:1px auto;
+	display:block;
+	border: 4px solid #0080000f;
+	width: 293px;
+	padding: 4px 3px 4px 3px;
+	color: #2c451feb;
+	background: #dddddd52;
+	border-radius: 4px;
+}
+
+
+
+
+.postfirst {
+    width: 800px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-size: 25px;
+    letter-spacing: 1px;
+    font-family: auto;
+}
+.post {
+    width: 800px;
+    margin-bottom: 20px;
+    font-size: 25px;
+    letter-spacing: 1px;
+    font-family: auto;
+}
+.postfirst h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+	margin-left: 80px;
+}
+
+
+.postfirst p {
+    font-size: 20px;
+    color: #131313eb;
+	margin-left: 50px;
+	
+}
+.post h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+	margin-left: 80px;
+}
+
+p {}
+
+.post p {
+    font-size: 20px;
+    color: #131313eb;
+	margin-left: 50px;
+}
+
+
+
+.section1 {
+    margin-top: 55px;
+    text-align: center;
+}
+
+.section1 span {
+    border: 1px solid;
+    padding: 8px;
+    background: #d7c9c9;
+    border-radius: 6px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: #fff;
+    font-size: 25px;
+}
+.menuitem {
+    float: left;
+	
+}
+.galary {
+    margin-top: 20;
+}
+.discription span{
+	width: 260px;
+	position:absolute;
+	text-decoration: none;
+	text-align: center;
+	margin-left: 6px;
+}
+.discription {
+    width: 250px;
+    height: 100px;
+    padding-top: 20;
+    
+}
+.menuitem1 {
+    width: 289px;
+    float: left;
+    position: relative;
+    margin-left: 13px;
+}
+.menuitem2 {
+    width: 289px;
+    float: left;
+
+}
+.menuitem3 {
+    width: 289px;
+    float: left;
+
+}
+.menuitem4 {
+    width: 275px;
+    float: left;
+    position: relative;
+}
+.menuitem5 {
+    width: 289px;
+    float: left;
+    position: relative;
+	margin-left: 13px;
+}
+.menuitem6 {
+    width: 289px;
+    float: left;
+    position: relative;
+}
+.menuitem7 {
+    width: 289px;
+    float: left;
+    position: relative;
+}
+.menuitem8 {
+    width: 275px;
+    float: left;
+    position: relative;
+}
+.menuitem1 img {
+    border: 1px solid #957a7a;
+    height: 185px;
+}
+.menuitem2 img {
+    border: 1px solid #957a7a;
+}
+.menuitem3 img {
+    border: 1px solid #957a7a;
+}
+.menuitem4 img {
+    border: 1px solid #957a7a;
+}
+.menuitem5 img {
+    border: 1px solid #957a7a;
+}
+.menuitem6 img {
+    border: 1px solid #957a7a;
+}
+.menuitem7 img {
+    border: 1px solid #957a7a;
+}
+.menuitem8 img {
+    border: 1px solid #957a7a;
+}
+
+.container h4 {
+    color: #514343ed;
+    text-decoration: underline overline;
+    margin-left: 61px;
+    padding: 20;
+	font-size: 25;
+}
+.Maria img {
+    height: 55px;
+    width: 55px;
+    border-radius: 50%;
+    margin-left: -133px;
+    margin-top: 10px;
+}
+.Maria h5 {
+	overflow: hidden;
+	float: left;
+	margin-left: 95px;
+	margin-top: 15px;
+	}
+
+
+
+.Maria p {
+    margin-top: -26px;
+    margin-left: 94px;
+    width: 500px;
+    font-size: 14px;
+    margin-top: -29px;
+}
+
+
+
+
+.David img {
+    height: 55px;
+    width: 55px;
+    border-radius: 50%;
+    margin-left: -141px;
+    margin-top: 12px;
+}
+.David h5 {
+	overflow: hidden;
+	float: left;
+	margin-left: 95px;
+	margin-top: 16px;
+	}
+
+
+
+.David p {
+    margin-top: -26px;
+    margin-left: 94px;
+    width: 500px;
+    font-size: 14px;
+    margin-top: -29px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Michael img {
+    height: 55px;
+    width: 55px;
+    border-radius: 50%;
+    margin-left: -107px;
+    margin-top: 28px;
+}
+.Michael h5 {
+	overflow: hidden;
+	float: left;
+	margin-left: 95px;
+	margin-top: 34px;
+	}
+
+
+
+.Michael p {
+    margin-top: -26px;
+    margin-left: 94px;
+    width: 500px;
+    font-size: 14px;
+    margin-top: -28px;
+}
+
+
+
+
+
+
+
+
+
+
+.Jackie img {
+    height: 55px;
+    width: 55px;
+    border-radius: 50%;
+    margin-left: -125px;
+    margin-top: 26px;
+}
+.Jackie h5 {
+	overflow: hidden;
+	float: left;
+	margin-left: 95px;
+	margin-top: 33px;
+	}
+
+
+
+.Jackie p {
+    margin-top: -26px;
+    margin-left: 94px;
+    width: 500px;
+    font-size: 14px;
+}
+.Jackie {
+    margin-bottom: 20px;
+}
+
+
+
